@@ -26,10 +26,6 @@
 
     public class Student
     {
-        //private double physics;
-        //private double chemestry;
-        //private double computerApplication;
-        
         public int RollNumber { get; set; }
         public string? Name { get; set; }
         public double Physics { get; set; }
